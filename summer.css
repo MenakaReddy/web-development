@@ -1,0 +1,128 @@
+#navbar{
+	     background-color:#1ceb1c;
+         text-align: right;
+         
+       }
+
+.nav-item {
+	        font-weight: 600;
+	        color: black;
+	        
+          }
+.dropdown:hover .dropdown-menu{
+	              display: block;
+	              margin-top: 0;
+	              background-color:pink;
+	             }
+ .dropdown{
+ 	        background-color:#0aedd6;
+          }
+
+
+#belowpic {
+	        background-color:#1ceb1c;
+	        color: white;
+          }
+.myicon {  
+	       margin :10%;
+	      
+
+        }
+.icons {
+ 	       display: flex;
+ 	       flex-direction: row;
+ 	       flex-wrap: wrap;
+ 	       justify-content: space-around;  
+      }
+.myIcon{
+ 	       margin: 5%;
+ 	       
+        }
+.flexBox {
+  	         display: flex;
+  	         flex-direction: row;
+  	         margin-left:10% ;
+  	         margin-right: 5%;
+
+           }
+.imgmango {
+	         width: 80%;
+	         height: 500px;
+	        
+           }
+.Lftcord {
+	       margin-right: 10%;
+	       height: 800;
+	       width:40% ;
+         }
+.BlockBtn {   background-color: #c50847;
+	           color: white;
+
+          }  
+.fun   {
+	     background-color:#1ceb1c;
+	     width:110%;
+	     
+	   }
+.emojiBlock{
+	         display: flex;
+	         flex-direction: row;
+           }
+.myEmoji{   margin: 2%;
+
+        }
+.ppc    {
+	       display: flex;
+	       flex-direction: row;
+	       margin: 5%;
+	       margin-right: 5%;
+        }
+.flexBox {
+  	         display: flex;
+  	         flex-direction: row;
+  	         margin-left:10% ;
+  	         margin-right: 5%;
+
+           }
+.imgmango {
+	         width: 80%;
+	         height: 500px;
+	        
+           } 
+ .Lftcord {
+	       margin-right: 10%;
+	       height: 800;
+	       width:40% ;
+         }
+.sicons {
+	      display: flex;
+	      flex-direction: row;
+	      margin-right: 5%;
+	      margin-left:0px ;
+	      }
+.footer{
+	     background-color: black;
+	     color: white;
+	     display: flex;
+	     flex-direction: row;
+
+        }
+.fblock {
+	      margin-right: 0;
+	      width: 50%;
+        }
+   p   {
+   	     text-align: center;
+       }
+.contact{
+	       margin-right:7%;
+	       margin-left: 7%;
+        }
+ @media screen and (max-width: 500px)                              
+     {
+     	.fun {
+     		   width: 80px;
+
+     	}
+     }
+
