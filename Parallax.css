@@ -1,0 +1,65 @@
+body {
+	   font-style: italic;
+     }
+.imgsec1{
+	     position: relative;
+	     background-position: center;
+	     background-size: cover;
+	     background-attachment: fixed;
+	     width: 100%;
+	     opacity: 1.0;
+	     font-family:sans-serif;
+	     background-image: url('https://www.pixelstalk.net/wp-content/uploads/images1/City-street-wallpaper-hd.jpg');height: 1000px;
+
+       }
+
+.imgsec2{background-image:url('https://www.wallpaperup.com/uploads/wallpapers/2016/04/01/920018/a7df89c8ccbdb6f37c717362047cac4d.jpg');height: 500px;
+          position: relative;
+	     background-position: center;
+	     background-size: cover;
+	     background-attachment: fixed;
+	     width: 100%;
+	     opacity: 1.0;
+	     font-family:sans-serif;
+	     }
+	     
+.imgsec3{background-image:url('https://c2.staticflickr.com/4/3169/2981528249_98e7b16381_b.jpg'); height: 500px;
+          position: relative;
+	     background-position: center;
+	     background-size: cover;
+	     background-attachment: fixed;
+	     width: 100%;
+	     opacity: 1.0;
+	     font-family:sans-serif;
+	     }
+            
+.txtsec{
+	     text-align: center;
+	     color: gray;
+	     padding: 30px;
+	     font-size: 12px;
+       }
+.text {
+	    position: absolute;
+	    bottom: 60%;
+	    text-align: center;
+	    width: 100%;
+
+      }
+.blacktxt{
+	       background-color: black;
+	       color: white;
+	       text-align: center;
+	       font-size: 27px;
+	       letter-spacing: 5px;
+	       text-transform: uppercase;
+
+         }
+.imgtxt {
+	       text-align: center;
+	       font-weight: 600px;
+	       font-size: 20px;
+	       letter-spacing: 8px;
+	       text-transform: uppercase;
+	       color: white;
+        }                      
